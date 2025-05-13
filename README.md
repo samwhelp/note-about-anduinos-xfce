@@ -68,6 +68,7 @@
 | [Xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/) | [GitHub](https://github.com/samwhelp/note-about-xfce) |
 | [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
 | [Debian Xfce 探索筆記](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
+| [MxLinux Xfce 探索筆記](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
 | [ArchLinux Xfce 探索筆記](https://samwhelp.github.io/note-about-archlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-xfce) |
 | [Garuda Xfce 探索筆記](https://samwhelp.github.io/note-about-garuda-xfce/) | [GitHub](https://github.com/samwhelp/note-about-garuda-xfce) |
 | [Manjaro Xfce 探索筆記](https://samwhelp.github.io/note-about-manjaro-xfce/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-xfce) |
